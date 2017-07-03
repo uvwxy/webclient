@@ -1,0 +1,13 @@
+{
+  "name": "webclient",
+  "keywords": "time, webclient, unix timestamp, unix time, timestamp, NTP",
+  "description": "Low-memory footprint, scheduler-friendly web time client",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/uvwxy/webclient.git",
+    "branch": "master"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
